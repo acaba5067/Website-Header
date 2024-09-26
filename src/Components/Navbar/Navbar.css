@@ -21,3 +21,11 @@
     background: #fff;
     color:#262626;
 }
+@media(max-width:768)
+{ 
+    .navbar    
+    {
+     width: 100%;
+    }
+    
+}

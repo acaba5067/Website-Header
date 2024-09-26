@@ -20,9 +20,9 @@ function App() {
   },[])
   return (
     <div className="App">
-       <Background playStatus={playStatus} heroCount={heroCount} xs={6}/>
-        <Navbar xs={6}/>
-      <Hero xs={6}
+       <Background playStatus={playStatus} heroCount={heroCount}/>
+        <Navbar/>
+      <Hero
       setPlayStatus={setPlayStatus}
       heroData ={heroData[heroCount]}
       heroCount={heroCount}
