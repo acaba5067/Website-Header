@@ -21,6 +21,6 @@ animation:fadeIn 500ms ease-in-out;
 @media(max-width:768px)
 {
     .background{
-        width: 80%;
+        width: 100%;
     }
 }

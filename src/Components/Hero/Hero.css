@@ -60,7 +60,7 @@
 @media(max-width:768px)
 {
     .hero{
-        width: 80%;
+        width: 100%;
     }
     .hero-text{
         font-size: 50px;
